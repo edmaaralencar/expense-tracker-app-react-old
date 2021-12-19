@@ -1,0 +1,45 @@
+{
+  "transactions": [
+    {
+      "title": "Freelancer",
+      "amount": 1500,
+      "category": "Salário",
+      "type": "deposit",
+      "id": 1
+    },
+    {
+      "title": "Freelancer",
+      "amount": 500,
+      "category": "Salário",
+      "type": "deposit",
+      "id": 2
+    },
+    {
+      "title": "Playstation 4",
+      "amount": 100,
+      "category": "Diversão",
+      "type": "withdraw",
+      "id": 5
+    }
+  ],
+  "savings": [
+    {
+      "title": "Viagem",
+      "availableAmount": 6000,
+      "totalAmount": 10000,
+      "id": 3
+    },
+    {
+      "title": "Macbook",
+      "availableAmount": 5000,
+      "totalAmount": 8000,
+      "id": 4
+    },
+    {
+      "title": "sertesrts",
+      "availableAmount": 50,
+      "totalAmount": 100,
+      "id": 5
+    }
+  ]
+}
